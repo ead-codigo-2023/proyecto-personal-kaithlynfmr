@@ -1,0 +1,190 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.wireframe-home-EaE {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(173, 182, 196, 0.8000000119);
+}
+.wireframe-home-EaE .group-3-EyY {
+  width: 151.5rem;
+  height: 31.4rem;
+  flex-shrink: 0;
+}
+.wireframe-home-EaE .group-3-EyY .rectangle-1-Bfp {
+  width: 144rem;
+  height: 23.5rem;
+  background-color: #294c60;
+}
+.wireframe-home-EaE .group-3-EyY .group-2-Hyk {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.wireframe-home-EaE .group-3-EyY .group-2-Hyk .laponderosalogo-1-3T8 {
+  margin-right: 4.3rem;
+  width: 94.2rem;
+  height: 31.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wireframe-home-EaE .group-3-EyY .group-2-Hyk .auto-group-rftx-ZAa {
+  margin-bottom: 0.1rem;
+  width: 32.3rem;
+  height: 23.5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wireframe-home-EaE .auto-group-chpn-Fp6 {
+  box-sizing: border-box;
+  padding-left: 0.1rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.wireframe-home-EaE .auto-group-chpn-Fp6 .auto-group-5zrr-yVC {
+  margin: 0rem 22.3rem 4.5rem 27.4rem;
+  box-sizing: border-box;
+  padding: 21.4rem 46.5rem 1.7rem 46.5rem;
+  width: calc(100% - 49.7rem);
+  display: flex;
+  column-gap: 1.8rem;
+  align-items: flex-end;
+  background-color: rgba(255, 209, 177, 0.8000000119);
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.wireframe-home-EaE .auto-group-chpn-Fp6 .auto-group-5zrr-yVC .ellipse-7-nxS {
+  width: 1.6rem;
+  height: 1.6rem;
+  background-color: #ffe5d3;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.wireframe-home-EaE .auto-group-chpn-Fp6 .auto-group-5zrr-yVC .ellipse-6-hZc {
+  width: 1.6rem;
+  height: 1.6rem;
+  background-color: #ffe5d3;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.wireframe-home-EaE .auto-group-chpn-Fp6 .auto-group-5zrr-yVC .ellipse-5-EpS {
+  width: 1.6rem;
+  height: 1.6rem;
+  background-color: #ffe5d3;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.wireframe-home-EaE .auto-group-chpn-Fp6 .auto-group-ycev-izW {
+  margin: 0rem 29.9rem 3.9rem 37rem;
+  width: calc(100% - 66.9rem);
+  height: 29.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wireframe-home-EaE .auto-group-chpn-Fp6 .auto-group-ycev-izW .auto-group-pga6-dLn {
+  margin-right: 23rem;
+  width: 30.6rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.wireframe-home-EaE .auto-group-chpn-Fp6 .auto-group-ycev-izW .auto-group-pga6-dLn .group-4-YyY {
+  width: 30.6rem;
+  height: 29.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-home-EaE .auto-group-chpn-Fp6 .auto-group-ycev-izW .auto-group-pga6-dLn .delivery-tXc {
+  width: 15.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 7.4rem;
+  top: 18.7rem;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #3f3659;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-home-EaE .auto-group-chpn-Fp6 .auto-group-ycev-izW .auto-group-pga6-dLn .icon-maps-localshipping24px-x1g {
+  width: 12.5606rem;
+  height: 8.3432rem;
+  cursor: pointer;
+  position: absolute;
+  left: 9rem;
+  top: 7.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-home-EaE .auto-group-chpn-Fp6 .auto-group-ycev-izW .auto-group-npgj-TUE {
+  width: 30.6rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.wireframe-home-EaE .auto-group-chpn-Fp6 .auto-group-ycev-izW .auto-group-npgj-TUE .group-1-1Er {
+  width: 30.6rem;
+  height: 29.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-home-EaE .auto-group-chpn-Fp6 .auto-group-ycev-izW .auto-group-npgj-TUE .categoras-9M4 {
+  width: 21.3rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 18.7rem;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #3f3659;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-home-EaE .auto-group-chpn-Fp6 .auto-group-ycev-izW .auto-group-npgj-TUE .shoppingbasket24px-PWJ {
+  width: 11rem;
+  height: 11rem;
+  cursor: pointer;
+  position: absolute;
+  left: 9.8rem;
+  top: 6.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-home-EaE .auto-group-chpn-Fp6 .rectangle-10-JdG {
+  width: 100%;
+  height: 8.4rem;
+  background-color: #294c60;
+  flex-shrink: 0;
+}
