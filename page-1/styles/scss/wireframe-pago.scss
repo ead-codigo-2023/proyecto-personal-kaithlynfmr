@@ -14,22 +14,22 @@ input {
 }
 body {
   width: 151.2rem;
-}.wireframe-pago-Nnn {
-  overflow: hidden;
-  position: relative;
-  align-items: flex-end;
+}.wireframe-pago-Z7g {
   display: flex;
   flex-direction: column;
   background-color: rgba(173, 182, 196, 0.8000000119);
   width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
 
-  .group-3-j7Y {
+  .group-3-W2v {
     width: 151.5rem;
     height: 31.4rem;
     position: relative;
     flex-shrink: 0;
 
-    .rectangle-1-5SJ {
+    .rectangle-1-EzW {
       left: 0;
       top: 0;
       background-color: #294c60;
@@ -37,24 +37,24 @@ body {
       height: 23.5rem;
       position: absolute;
     }
-    .group-2-dCv {
-      top: 0;
+    .group-2-nWE {
       display: flex;
       align-items: center;
       width: 130.8rem;
       height: 31.4rem;
       position: absolute;
       left: 20.4rem;
+      top: 0;
 
-      .laponderosalogo-1-NAW {
-        object-fit: cover;
-        vertical-align: top;
-        flex-shrink: 0;
+      .laponderosalogo-1-vMY {
         margin-right: 4.3rem;
         width: 94.2rem;
         height: 31.4rem;
+        object-fit: cover;
+        vertical-align: top;
+        flex-shrink: 0;
       }
-      .auto-group-br4s-66W {
+      .auto-group-br4s-rW6 {
         margin-bottom: 0.1rem;
         width: 32.3rem;
         height: 23.5rem;
@@ -65,7 +65,7 @@ body {
       }
     }
   }
-  .auto-group-m3za-Dwp {
+  .auto-group-m3za-bCn {
     flex-shrink: 0;
     box-sizing: border-box;
     padding: 5rem 0rem 0rem 0.1rem;
@@ -74,47 +74,46 @@ body {
     display: flex;
     flex-direction: column;
 
-    .auto-group-e9yl-Mo8 {
-      box-sizing: border-box;
-      padding: 5.6rem 6.441rem 5.7rem 16.6rem;
-      flex-direction: column;
-      display: flex;
-      background-color: #d9d9d9;
-      border-radius: 5rem;
+    .auto-group-e9yl-Wae {
       flex-shrink: 0;
       margin: 0rem 23.3rem 5rem 15.3rem;
+      padding: 5.6rem 6.441rem 5.7rem 16.6rem;
+      background-color: #d9d9d9;
+      display: flex;
+      flex-direction: column;
+      border-radius: 5rem;
+      box-sizing: border-box;
       width: calc(100% - 38.6rem);
       align-items: center;
 
-      .auto-group-mzdg-16z {
-        flex-shrink: 0;
+      .auto-group-mzdg-c7t {
         margin-bottom: 7.9rem;
         width: 100%;
         display: flex;
         align-items: flex-end;
+        flex-shrink: 0;
 
-        .auto-group-uf4w-Z8W {
-          border-radius: 1.5rem;
+        .auto-group-uf4w-A9Q {
           margin: 0rem 9.8rem 0.9rem 0rem;
-          padding: 2.3rem 3.2rem 2.7rem 2.5rem;
-          row-gap: 3.6rem;
+          display: flex;
           flex-direction: column;
-          background-color: #b4bcc7;
+          border-radius: 1.5rem;
           flex-shrink: 0;
           box-sizing: border-box;
+          padding: 2.3rem 3.2rem 2.7rem 2.5rem;
           width: 32.1rem;
-          display: flex;
+          row-gap: 3.6rem;
+          background-color: #b4bcc7;
 
-          .image-10-e9x {
+          .image-10-TPQ {
+            flex-shrink: 0;
+            margin-left: 0.1rem;
             width: 3.9rem;
             height: 3.9rem;
             object-fit: cover;
             vertical-align: top;
-            flex-shrink: 0;
-            margin-left: 0.1rem;
           }
-          .xxxx-xxxx-xxxx-xxxx-B9t {
-            font-family: Inter, 'Source Sans Pro';
+          .xxxx-xxxx-xxxx-xxxx-PXx {
             white-space: nowrap;
             flex-shrink: 0;
             margin-left: 0.1rem;
@@ -122,38 +121,39 @@ body {
             font-weight: 800;
             line-height: 1.2125;
             color: #3f3659;
+            font-family: Inter, 'Source Sans Pro';
           }
-          .xx-xx-Nta {
-            line-height: 1.2125;
+          .xx-xx-oEJ {
             color: #3f3659;
             font-family: Inter, 'Source Sans Pro';
             white-space: nowrap;
             flex-shrink: 0;
             font-size: 2rem;
             font-weight: 800;
+            line-height: 1.2125;
           }
         }
-        .webpay-logo1faf9fd07-8683-4715-a39b-e990828e3703large-1-Gyx {
-          vertical-align: top;
-          flex-shrink: 0;
+        .webpay-logo1faf9fd07-8683-4715-a39b-e990828e3703large-1-uYE {
           width: 47.5588rem;
           height: 19.6rem;
           object-fit: cover;
+          vertical-align: top;
+          flex-shrink: 0;
         }
       }
-      .auto-group-nthx-aUr {
-        margin: 0rem 48.059rem 2.7rem 0rem;
+      .auto-group-nthx-otW {
         display: flex;
-        border-radius: 0.5rem;
+        border: solid 0.3rem #8995a5;
+        flex-shrink: 0;
+        margin: 0rem 48.059rem 2.7rem 0rem;
         box-sizing: border-box;
         padding: 1rem 14.3rem 1rem 1.6rem;
         width: calc(100% - 48.0588rem);
         align-items: center;
-        border: solid 0.3rem #8995a5;
         background-color: #d9d9d9;
-        flex-shrink: 0;
+        border-radius: 0.5rem;
 
-        .image-11-gGz {
+        .image-11-WH8 {
           margin-right: 2.1rem;
           width: 2.4rem;
           height: 2.4rem;
@@ -161,42 +161,42 @@ body {
           vertical-align: top;
           flex-shrink: 0;
         }
-        .xxxx-xxxx-xxxx-xxxx-DGv {
-          flex-shrink: 0;
-          margin-top: 0.2rem;
+        .xxxx-xxxx-xxxx-xxxx-FEi {
           font-size: 1.6rem;
           font-weight: 800;
           line-height: 1.2125;
           color: #3f3659;
           font-family: Inter, 'Source Sans Pro';
           white-space: nowrap;
+          flex-shrink: 0;
+          margin-top: 0.2rem;
         }
       }
-      .auto-group-qe18-7NJ {
-        line-height: 1.2125;
-        background-repeat: no-repeat;
+      .auto-group-qe18-8ZQ {
+        align-items: center;
+        background-position: center;
         flex-shrink: 0;
-        justify-content: center;
-        margin-left: 54.9412rem;
-        width: 26.2rem;
-        font-size: 2.4rem;
-        font-weight: 800;
-        font-family: Inter, 'Source Sans Pro';
-        display: flex;
         height: 4rem;
         color: #f5f5f5;
-        background-size: cover;
-        background-position: center;
+        font-family: Inter, 'Source Sans Pro';
+        background-repeat: no-repeat;
         background-image: url('REPLACE_IMAGE:1:144');
+        font-size: 2.4rem;
+        font-weight: 800;
+        display: flex;
         white-space: nowrap;
-        align-items: center;
+        justify-content: center;
+        background-size: cover;
+        margin-left: 54.9412rem;
+        width: 26.2rem;
+        line-height: 1.2125;
       }
     }
-    .rectangle-10-MXY {
+    .rectangle-10-nP4 {
+      flex-shrink: 0;
       width: 100%;
       height: 8.4rem;
       background-color: #294c60;
-      flex-shrink: 0;
     }
   }
 }
