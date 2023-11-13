@@ -1,0 +1,452 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.wireframe-catalogo-YDg {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(173, 182, 196, 0.8000000119);
+}
+.wireframe-catalogo-YDg .group-3-t2e {
+  width: 151.5rem;
+  height: 31.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .group-3-t2e .rectangle-1-dW2 {
+  width: 144rem;
+  height: 23.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #294c60;
+}
+.wireframe-catalogo-YDg .group-3-t2e .group-2-B1k {
+  width: 130.8rem;
+  height: 31.4rem;
+  position: absolute;
+  left: 20.4rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.wireframe-catalogo-YDg .group-3-t2e .group-2-B1k .laponderosalogo-1-WZp {
+  margin-right: 4.3rem;
+  width: 94.2rem;
+  height: 31.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .group-3-t2e .group-2-B1k .auto-group-vp6w-Rwg {
+  margin-bottom: 0.1rem;
+  width: 32.3rem;
+  height: 23.5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE {
+  box-sizing: border-box;
+  padding-left: 0.1rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-jcr8-4Ur {
+  margin: 0rem 6rem 4.9rem 11.1rem;
+  width: calc(100% - 17.1rem);
+  height: 10rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-jcr8-4Ur .auto-group-wf8w-B3g {
+  margin-right: 43.6072rem;
+  width: 40.5928rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-jcr8-4Ur .auto-group-wf8w-B3g .rectangle-18-7xv {
+  width: 39.9906rem;
+  height: 9.8772rem;
+  position: absolute;
+  left: 0.6023rem;
+  top: 0.1205rem;
+  background-color: rgba(255, 209, 177, 0.5530000056);
+  border-radius: 8.4317rem;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-jcr8-4Ur .auto-group-wf8w-B3g .group-11-2pz {
+  width: 10.4795rem;
+  height: 10rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-jcr8-4Ur .auto-group-wf8w-B3g .despensa-NP4 {
+  width: 21.5rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 12.6476rem;
+  top: 2.4091rem;
+  font-size: 4.3363rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #1a0031;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-jcr8-4Ur .auto-group-wf8w-B3g .image-4-fd4 {
+  width: 5.4204rem;
+  height: 5.4204rem;
+  position: absolute;
+  left: 2.5295rem;
+  top: 2.2886rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-jcr8-4Ur .auto-group-voei-BrJ {
+  margin: 2rem 0rem 2.8rem 0rem;
+  box-sizing: border-box;
+  padding: 0.8rem 1rem 0.7rem 1rem;
+  width: 49.8rem;
+  height: calc(100% - 4.8rem);
+  border: solid 0.4rem #3f3659;
+  background-color: #b4bcc7;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-jcr8-4Ur .auto-group-voei-BrJ .image-14-U4i {
+  width: 3.7rem;
+  height: 3.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-uotv-YKU {
+  margin: 0rem 22.7rem 1.8rem 22.1rem;
+  width: calc(100% - 44.8rem);
+  height: 40.9rem;
+  display: flex;
+  column-gap: 3.7rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-uotv-YKU .auto-group-ii8i-Fjg {
+  box-sizing: border-box;
+  padding: 4.4rem 2.2rem 2.4rem 2.3rem;
+  width: 23.8rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+  border-radius: 4.375rem;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-uotv-YKU .auto-group-ii8i-Fjg .image-15-Abk {
+  margin: 0rem 0.1rem 3.5rem 0rem;
+  width: 16.4rem;
+  height: 16.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-uotv-YKU .auto-group-ii8i-Fjg .item-950-Ve2 {
+  margin: 0rem 1.1rem 1rem 0rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #3f3659;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-uotv-YKU .auto-group-ii8i-Fjg .mxima-QW6 {
+  margin: 0rem 14.6rem 1rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #3f3659;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-uotv-YKU .auto-group-ii8i-Fjg .harina-sin-polvos-de-hornear-1kg-Xai {
+  margin-bottom: 4.5rem;
+  font-size: 1.2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #3f3659;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-uotv-YKU .auto-group-ii8i-Fjg .auto-group-1nug-Sxa {
+  margin: 0rem 2.7rem 0rem 2.5rem;
+  width: calc(100% - 5.2rem);
+  height: 2.2rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #f5f5f5;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3f3659;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-uotv-YKU .auto-group-fhws-qE2 {
+  box-sizing: border-box;
+  padding: 4.4rem 3.7rem 2.4rem 2.3rem;
+  width: 23.8rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+  border-radius: 4.375rem;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-uotv-YKU .auto-group-fhws-qE2 .image-19-LwU {
+  margin: 0rem 0rem 3.5rem 1.4rem;
+  width: 16.4rem;
+  height: 16.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-uotv-YKU .auto-group-fhws-qE2 .item-499-4ca {
+  margin: 0rem 0rem 1rem 0.4rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #3f3659;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-uotv-YKU .auto-group-fhws-qE2 .mxima-Bx6 {
+  margin: 0rem 13.1rem 1rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #3f3659;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-uotv-YKU .auto-group-fhws-qE2 .spaghetti-n-5-mxima-400-g-Jmp {
+  margin: 0rem 0.5rem 4.5rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #3f3659;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-uotv-YKU .auto-group-fhws-qE2 .auto-group-zci6-SWe {
+  margin: 0rem 1.2rem 0rem 2.5rem;
+  width: calc(100% - 3.7rem);
+  height: 2.2rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #f5f5f5;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3f3659;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-uotv-YKU .auto-group-ikni-srr {
+  box-sizing: border-box;
+  padding: 4.4rem 3.7rem 2.2rem 2.3rem;
+  width: 23.8rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+  border-radius: 4.375rem;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-uotv-YKU .auto-group-ikni-srr .image-20-zwU {
+  margin: 0rem 0rem 3.5rem 1.4rem;
+  width: 16.4rem;
+  height: 16.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-uotv-YKU .auto-group-ikni-srr .item-1499-vq8 {
+  margin: 0rem 0.2rem 1rem 0rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #3f3659;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-uotv-YKU .auto-group-ikni-srr .mxima-SYa {
+  margin: 0rem 13.1rem 1.1rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #3f3659;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-uotv-YKU .auto-group-ikni-srr .aceite-vegetal-900-ml-AUa {
+  margin: 0rem 4.6rem 4.6rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #3f3659;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-uotv-YKU .auto-group-ikni-srr .auto-group-vdyw-5rS {
+  margin: 0rem 1.2rem 0rem 2.5rem;
+  width: calc(100% - 3.7rem);
+  height: 2.2rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #f5f5f5;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3f3659;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-uotv-YKU .auto-group-7lxi-5V4 {
+  box-sizing: border-box;
+  padding: 4.4rem 1.5rem 2.2rem 2.3rem;
+  width: 23.8rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+  border-radius: 4.375rem;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-uotv-YKU .auto-group-7lxi-5V4 .image-21-Pke {
+  margin: 0rem 0rem 3.5rem 0.2rem;
+  width: 16.4rem;
+  height: 16.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-uotv-YKU .auto-group-7lxi-5V4 .item-1159-7wY {
+  margin: 0rem 0.8rem 1rem 0rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #3f3659;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-uotv-YKU .auto-group-7lxi-5V4 .mxima-qce {
+  margin: 0rem 15.3rem 1rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #3f3659;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-uotv-YKU .auto-group-7lxi-5V4 .arroz-grado-2-maxima-1-kg-grano-largo-angosto-ZoY {
+  margin-bottom: 3.2rem;
+  max-width: 20rem;
+  font-size: 1.2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #3f3659;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-uotv-YKU .auto-group-7lxi-5V4 .auto-group-85qw-HUe {
+  margin: 0rem 3.4rem 0rem 2.5rem;
+  width: calc(100% - 5.9rem);
+  height: 2.2rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #f5f5f5;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3f3659;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-jxvi-gFt {
+  margin: 0rem 70.2rem 0.463rem 69.6rem;
+  width: calc(100% - 139.8rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-jxvi-gFt .image-13-Pvz {
+  margin-right: 2.8569rem;
+  width: 4.2366rem;
+  height: 4.2366rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .auto-group-jxvi-gFt .image-12-8dg {
+  margin-bottom: 0.03rem;
+  width: 4.2066rem;
+  height: 4.2066rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wireframe-catalogo-YDg .auto-group-vflv-wQE .rectangle-10-sLN {
+  width: 100%;
+  height: 8.4rem;
+  background-color: #294c60;
+  flex-shrink: 0;
+}

@@ -1,0 +1,198 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.wireframe-home-T1L {
+  background-color: rgba(173, 182, 196, 0.8000000119);
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+
+  .group-3-qGn {
+    width: 151.5rem;
+    height: 31.4rem;
+    flex-shrink: 0;
+
+    .rectangle-1-Cf4 {
+      width: 144rem;
+      height: 23.5rem;
+      background-color: #294c60;
+    }
+    .group-2-idQ {
+      height: 100%;
+      display: flex;
+      align-items: center;
+
+      .laponderosalogo-1-4xA {
+        margin-right: 4.3rem;
+        width: 94.2rem;
+        height: 31.4rem;
+        object-fit: cover;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+      .auto-group-rftx-ka6 {
+        vertical-align: top;
+        flex-shrink: 0;
+        margin-bottom: 0.1rem;
+        width: 32.3rem;
+        height: 23.5rem;
+        position: relative;
+        object-fit: contain;
+      }
+    }
+  }
+  .auto-group-chpn-TDc {
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding-left: 0.1rem;
+    width: 100%;
+    align-items: center;
+
+    .auto-group-5zrr-PNA {
+      box-sizing: border-box;
+      padding: 21.4rem 46.5rem 1.7rem 46.5rem;
+      width: calc(100% - 49.7rem);
+      display: flex;
+      column-gap: 1.8rem;
+      align-items: flex-end;
+      border-radius: 0.2rem;
+      margin: 0rem 22.3rem 4.5rem 27.4rem;
+      background-color: rgba(255, 209, 177, 0.8000000119);
+      flex-shrink: 0;
+
+      .ellipse-7-eot {
+        height: 1.6rem;
+        background-color: #ffe5d3;
+        border-radius: 0.8rem;
+        flex-shrink: 0;
+        width: 1.6rem;
+      }
+      .ellipse-6-nfC {
+        background-color: #ffe5d3;
+        border-radius: 0.8rem;
+        flex-shrink: 0;
+        width: 1.6rem;
+        height: 1.6rem;
+      }
+      .ellipse-5-8UA {
+        height: 1.6rem;
+        background-color: #ffe5d3;
+        border-radius: 0.8rem;
+        flex-shrink: 0;
+        width: 1.6rem;
+      }
+    }
+    .auto-group-ycev-23k {
+      align-items: center;
+      flex-shrink: 0;
+      margin: 0rem 29.9rem 3.9rem 37rem;
+      width: calc(100% - 66.9rem);
+      height: 29.2rem;
+      display: flex;
+
+      .auto-group-pga6-vup {
+        width: 30.6rem;
+        height: 100%;
+        position: relative;
+        flex-shrink: 0;
+        margin-right: 23rem;
+
+        .group-4-dZL {
+          object-fit: contain;
+          vertical-align: top;
+          width: 30.6rem;
+          height: 29.2rem;
+          position: absolute;
+          left: 0;
+          top: 0;
+        }
+        .delivery-jsG {
+          top: 18.7rem;
+          font-size: 3.2rem;
+          line-height: 1.2125;
+          color: #3f3659;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          height: 3.9rem;
+          position: absolute;
+          left: 7.4rem;
+          font-weight: 800;
+          width: 15.9rem;
+        }
+        .icon-maps-localshipping24px-cRG {
+          left: 9rem;
+          top: 7.5rem;
+          object-fit: contain;
+          vertical-align: top;
+          width: 12.5606rem;
+          height: 8.3432rem;
+          cursor: pointer;
+          position: absolute;
+        }
+      }
+      .auto-group-npgj-7N2 {
+        flex-shrink: 0;
+        width: 30.6rem;
+        height: 100%;
+        position: relative;
+
+        .group-1-4YA {
+          position: absolute;
+          left: 0;
+          top: 0;
+          object-fit: contain;
+          vertical-align: top;
+          width: 30.6rem;
+          height: 29.2rem;
+        }
+        .categoras-oEr {
+          height: 3.9rem;
+          top: 18.7rem;
+          font-weight: 800;
+          line-height: 1.2125;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          width: 21.3rem;
+          position: absolute;
+          left: 4.6rem;
+          font-size: 3.2rem;
+          color: #3f3659;
+        }
+        .shoppingbasket24px-Hfp {
+          object-fit: contain;
+          vertical-align: top;
+          width: 11rem;
+          height: 11rem;
+          cursor: pointer;
+          position: absolute;
+          left: 9.8rem;
+          top: 6.2rem;
+        }
+      }
+    }
+    .rectangle-10-n6n {
+      background-color: #294c60;
+      flex-shrink: 0;
+      width: 100%;
+      height: 8.4rem;
+    }
+  }
+}
